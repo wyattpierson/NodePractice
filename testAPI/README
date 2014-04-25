@@ -1,0 +1,4 @@
+Test REST API made through express
+This code implements a very simple UI with CRUD functions to manage users
+
+A lot of this code was generated throguh Express scaffolding, so excuse the lack of comments
