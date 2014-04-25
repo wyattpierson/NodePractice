@@ -1,1 +1,9 @@
-Currently just a practice repo. Will update if it becomes useful
+Currently just a practice repo for my node.js work.
+Messing around with different modules and such.
+
+restify - a very basic REST API using restify. One file, no UI.
+testAPI - an actual application. Also a REST API, but has a UI (ugly and basic),
+	and more intricate configuration and functionality. Based off Express.
+
+WARNING: This code is very much for testing and discovery purposes. 
+It is inefficient and insecure in some places. 
