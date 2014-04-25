@@ -1,0 +1,4 @@
+Sample using node.js using the restify module.
+
+Very simple crud interface. Seems lightweight and highly customizable.
+Would work well as a mobile backend it seems. 
